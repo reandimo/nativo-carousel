@@ -9,10 +9,24 @@ Compatible con Polylang (Varios strings registrados para su correcto funcionamie
 
 Uso mediante el shotcode [nativo-carousel] con las siguientes opciones:
 
-  - cat: Elige la categoria a mostrar en el carousel. Ej: Para mostrar la categoria "Noticias", colocamos el slug de esta categoria de la siguiente manera:  
+<table>
+	<tr>
+		<th>Option Name</th>
+		<th>Description</th>
+		<th>Example</th>
+	</tr>
+	<tr>
+		<td>cat</td>
+		<td>Elige la categoria a mostrar en el carousel</td>
+		<td>Ej: Para mostrar la categoria "Noticias", colocamos el slug de esta categoria de la siguiente manera:  
   
-    [nativo-carousel cat="noticias"] <-- Esto mostrara el Carousel con post de la categoria Noticias.
-    
-  - per_page: La cantidad de post que mostrara el carousel. Ej: Para mostrar 10 post de la categoria noticias:
+    [nativo-carousel cat="noticias"] <-- Esto mostrara el Carousel con post de la categoria Noticias.</td>
+	</tr>
+	<tr>
+		<td>per_page</td>
+		<td>La cantidad de post que mostrara el carousel</td>
+		<td>Ej: Para mostrar 10 post de la categoria noticias:
   
-    [nativo-carousel cat="noticias" per_page="10"]
+    [nativo-carousel cat="noticias" per_page="10"]</td>
+	</tr>
+</table>
