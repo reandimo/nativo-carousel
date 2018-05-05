@@ -18,15 +18,11 @@ Uso mediante el shotcode [nativo-carousel] con las siguientes opciones:
 	<tr>
 		<td>cat</td>
 		<td>Elige la categoria a mostrar en el carousel</td>
-		<td>Ej: Para mostrar la categoria "Noticias", colocamos el slug de esta categoria de la siguiente manera:  
-  
-    [nativo-carousel cat="noticias"] <-- Esto mostrara el Carousel con post de la categoria Noticias.</td>
+		<td>Ej: Para mostrar la categoria "Noticias", colocamos el slug de esta categoria de la siguiente manera:  [nativo-carousel cat="noticias"]</td>
 	</tr>
 	<tr>
 		<td>per_page</td>
 		<td>La cantidad de post que mostrara el carousel</td>
-		<td>Ej: Para mostrar 10 post de la categoria noticias:
-  
-    [nativo-carousel cat="noticias" per_page="10"]</td>
+		<td>Ej: Para mostrar 10 post de la categoria noticias: [nativo-carousel cat="noticias" per_page="10"]</td>
 	</tr>
 </table>
