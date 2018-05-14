@@ -1,7 +1,7 @@
 <?php
 /*
-* Plugin Name: Banners de Scroll Infinito
-* Plugin URI: https://nativoteam.com
+* Plugin Name: Simple Post Carousel
+* Plugin URI: https://github.com/reandimo/nativo-carousel
 * Description: Crea banners con scroll infinito para tu web
 * Version: 1.0
 * Author: Renan Diaz
