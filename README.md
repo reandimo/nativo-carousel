@@ -1,13 +1,15 @@
 # nativo-carousel
-Simple Post Carousel for WP
+<b>Simple Post Carousel for WP</b>
 
 Version 0.1 - En desarrollo.
 
-Muestra un post carousel segun por categoria (funciona con Owl Carousel).
+Muestra un post carousel segun la categoria seleccionada (funciona con Owl Carousel).
 
-Compatible con Polylang (Varios strings registrados para su correcto funcionamiento).
-
-Uso mediante el shotcode [nativo-carousel] con las siguientes opciones:
+<b>Compatible con Polylang</b>
+ - Varios strings registrados para su correcto funcionamiento.
+ - Muestra de forma automatica los post que tengan traduccion.
+ 
+Uso mediante el shotcode <b>[nativo-carousel]</b> con las siguientes opciones:
 
 <table>
 	<tr>
